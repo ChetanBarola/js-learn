@@ -8,6 +8,6 @@
 // undefined
 // Symbol
 
-let name = "chetan";
-console.log(name);
-console.log(typeof name);
+let myname = "chetan";
+console.log(myname);
+console.log(typeof myname);
